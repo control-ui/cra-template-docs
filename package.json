@@ -1,0 +1,30 @@
+{
+    "name": "cra-template-control-ui-docs",
+    "version": "0.0.9",
+    "keywords": [
+        "react",
+        "create-react-app",
+        "template",
+        "control-ui",
+        "control-ui-docs",
+        "documentation",
+        "docs-starter",
+        "boilerplate",
+        "material-ui",
+        "material"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/control-ui/cra-template-docs.git"
+    },
+    "license": "MIT",
+    "main": "template.json",
+    "files": [
+        "README.md",
+        "template",
+        "template.json"
+    ],
+    "scripts": {
+        "template": "npx create-react-app ../00-test-app --template file:../cra-template-control-ui-docs"
+    }
+}
