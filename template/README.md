@@ -10,7 +10,7 @@
 Start developing your own React docs app:
 
 ```bash
-npx create-react-app my-app --template control-ui-docs
+npx create-react-app my-docs --template control-ui-docs
 ```
 
 ## License
